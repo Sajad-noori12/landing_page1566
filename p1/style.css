@@ -3,3 +3,8 @@ body {
     text-align: center;
     background-color: red;
 }
+
+p {
+    color: red;
+    font-size: larger;
+}
